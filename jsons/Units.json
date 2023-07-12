@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"name": "The Grim Reaper",
+		"unitType": "Sword",
+		"uniqueTo": "Sim Nation",
+		"replaces": "Warrior",
+		"movement": 4,
+		"strength": 100,
+		"range": 1,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredTech": "Agriculture",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
